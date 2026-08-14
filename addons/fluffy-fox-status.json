@@ -8,5 +8,7 @@
   "sourceUrl": "https://github.com/SugarFluff-WildHeart/FluffyFox-Status",
   "downloadUrl": "https://github.com/SugarFluff-WildHeart/FluffyFox-Status/releases/download/v0.1.0/fluffy-fox-status-0.1.0.zip",
   "sha256": "6C4E23B38A5DF6B4770C2D7FB68FCE115274B3C30377711F33181FAD3288F8EA",
-  "permissions": {}
+  "permissions": {
+    "server": ["status"]
+  }
 }
