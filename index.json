@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T00:00:00Z",
+  "updatedAt": "2026-08-17T13:33:02Z",
   "addons": [
     {
       "id": "leadership-board-demo",
@@ -19,9 +19,9 @@
       "description": "Easy Dune Admin exchange seeder controls for RedBlink Dune Docker Console.",
       "author": "jeffstokes72, n00bGames",
       "version": "0.13.9",
-      "lifecycle": "active",
-      "lifecycleMessage": "",
-      "lifecycleUrl": "",
+      "lifecycle": "removed",
+      "lifecycleMessage": "EDA Exchange Bot has been retired because its features are built into Dune Docker Console v1.3.90. Update the Console to migrate existing schedules automatically.",
+      "lifecycleUrl": "https://github.com/Red-Blink/dune-awakening-selfhost-docker/releases/tag/v1.3.90",
       "manifestUrl": "https://raw.githubusercontent.com/Red-Blink/dune-docker-addons/main/addons/eda-exchange-bot.json"
     },
     {
