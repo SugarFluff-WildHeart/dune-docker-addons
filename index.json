@@ -51,7 +51,7 @@
       "name": "Fluffy Fox Status",
       "description": "A lightweight hardware and system monitoring addon for Dune Docker Console.",
       "author": "SugarFluff-WildHeart",
-      "version": "0.1.7",
+      "version": "0.2.0",
       "lifecycle": "active",
       "lifecycleMessage": "",
       "lifecycleUrl": "",
